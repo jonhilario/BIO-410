@@ -32,3 +32,6 @@ This parasite leads to the disease called Cyclosporiasis, and starts as a waterb
 
 VSYYKKFQQLYTNSSILTAANHKELGIYYVWFAFLFSIVGTLLSVLIRLELSSSGLRIVALENQNFYNLAFTLHGAIMIFFVVMPGLYGGYGNYFLPIYLGASEVAFPRVNCVSLLLVPIAWVVVSTSLISEFGSGIGWTLYPPLSTSLMSLSPTSVDLIVFGLALAGISSFLSSVNFLTTIAVLGVTNGAKPWCLFTWAIVFTAIMLIATLPILTGGLLMLVLDLHLNTQFYDAAFNGDPVLYQHLFWFFGHPEVYIIILPAFGVISQTLSTSAGKLVFGGPAMILAMGCITILGSLVWAHHMMTVGLETDTRAYFSAVTMMIAIPTGTKIFNWLSTFMGNPFSTISLDIWYALSFIFLFTLGGTTGVVLGNSALDVALHDTYYVIAHFHFVLSLGAVIGLICGYFYYQDSMFGYTANVFTRNTSDSPYLKVWSIVFLLSILLTFIPMHLLGFNVMPRRIPDYPDYVTYLNTMCSIGSISTVFILYSLIL
 
+<img width="560" alt="Screenshot 2024-05-13 at 10 37 20 AM" src="https://github.com/jonhilario/BIO-410/assets/158017025/4ab68cdc-94cd-4478-8264-ce3441c4de25">
+
+This figure shown depicts our sequence alignemnts in R. We decided to split the alignments up into 5 separate pairs in order to make it easier to decipher. These were supposed to become a full alignment model, but due to multiple errors and package problems in R, we were unable to perform this. From these alignments, we can see that some of them exhibit extremely high scores, while others are very far on the opposite side of the spectrum. This shows that all of the sequences are not highly aligned. 
